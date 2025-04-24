@@ -1,3 +1,6 @@
+## Project Structure
+```
 ├── Deep-Learning      # Directory
-├── AMA564-CODE        # Code
-└── Report 
+├── AMA564_CODE        # Code
+└── Report
+```
