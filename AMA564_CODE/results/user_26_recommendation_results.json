@@ -1,0 +1,134 @@
+{
+  "user_id": 26,
+  "history": [
+    {
+      "movieId": 2478,
+      "title": "\u00a1Three Amigos! (1986)",
+      "genres": "Comedy|Western",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1947,
+      "title": "West Side Story (1961)",
+      "genres": "Drama|Musical|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1198,
+      "title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+      "genres": "Action|Adventure",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1197,
+      "title": "Princess Bride, The (1987)",
+      "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1148,
+      "title": "Wallace & Gromit: The Wrong Trousers (1993)",
+      "genres": "Animation|Children|Comedy|Crime",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1262,
+      "title": "Great Escape, The (1963)",
+      "genres": "Action|Adventure|Drama|War",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1270,
+      "title": "Back to the Future (1985)",
+      "genres": "Adventure|Comedy|Sci-Fi",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1097,
+      "title": "E.T. the Extra-Terrestrial (1982)",
+      "genres": "Children|Drama|Sci-Fi",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1035,
+      "title": "Sound of Music, The (1965)",
+      "genres": "Musical|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1287,
+      "title": "Ben-Hur (1959)",
+      "genres": "Action|Adventure|Drama",
+      "rating": 5.0
+    }
+  ],
+  "recommendations": [
+    {
+      "movieId": 88744,
+      "title": "Rise of the Planet of the Apes (2011)",
+      "genres": "Action|Drama|Sci-Fi|Thriller",
+      "score": 0.804596483707428
+    },
+    {
+      "movieId": 1104,
+      "title": "Streetcar Named Desire, A (1951)",
+      "genres": "Drama",
+      "score": 0.7826383709907532
+    },
+    {
+      "movieId": 431,
+      "title": "Carlito's Way (1993)",
+      "genres": "Crime|Drama",
+      "score": 0.7783526182174683
+    },
+    {
+      "movieId": 2571,
+      "title": "Matrix, The (1999)",
+      "genres": "Action|Sci-Fi|Thriller",
+      "score": 0.7700870633125305
+    },
+    {
+      "movieId": 30810,
+      "title": "Life Aquatic with Steve Zissou, The (2004)",
+      "genres": "Adventure|Comedy|Fantasy",
+      "score": 0.7651737928390503
+    },
+    {
+      "movieId": 1210,
+      "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "genres": "Action|Adventure|Sci-Fi",
+      "score": 0.7647376656532288
+    },
+    {
+      "movieId": 97921,
+      "title": "Silver Linings Playbook (2012)",
+      "genres": "Comedy|Drama",
+      "score": 0.7610301375389099
+    },
+    {
+      "movieId": 3301,
+      "title": "Whole Nine Yards, The (2000)",
+      "genres": "Comedy|Crime",
+      "score": 0.7595800757408142
+    },
+    {
+      "movieId": 247,
+      "title": "Heavenly Creatures (1994)",
+      "genres": "Crime|Drama",
+      "score": 0.7593522667884827
+    },
+    {
+      "movieId": 46723,
+      "title": "Babel (2006)",
+      "genres": "Drama|Thriller",
+      "score": 0.7590610384941101
+    }
+  ],
+  "diversity_metrics": {
+    "new_genres": [
+      "Thriller"
+    ],
+    "novelty_ratio": 0.125,
+    "diversity": 0.7916666666666666
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "user_id": 251,
+  "history": [
+    {
+      "movieId": 78499,
+      "title": "Toy Story 3 (2010)",
+      "genres": "Adventure|Animation|Children|Comedy|Fantasy|IMAX",
+      "rating": 5.0
+    },
+    {
+      "movieId": 164179,
+      "title": "Arrival (2016)",
+      "genres": "Sci-Fi",
+      "rating": 5.0
+    },
+    {
+      "movieId": 2321,
+      "title": "Pleasantville (1998)",
+      "genres": "Comedy|Drama|Fantasy",
+      "rating": 5.0
+    },
+    {
+      "movieId": 6377,
+      "title": "Finding Nemo (2003)",
+      "genres": "Adventure|Animation|Children|Comedy",
+      "rating": 5.0
+    },
+    {
+      "movieId": 134853,
+      "title": "Inside Out (2015)",
+      "genres": "Adventure|Animation|Children|Comedy|Drama|Fantasy",
+      "rating": 5.0
+    },
+    {
+      "movieId": 364,
+      "title": "Lion King, The (1994)",
+      "genres": "Adventure|Animation|Children|Drama|Musical|IMAX",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1,
+      "title": "Toy Story (1995)",
+      "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+      "rating": 4.5
+    },
+    {
+      "movieId": 106696,
+      "title": "Frozen (2013)",
+      "genres": "Adventure|Animation|Comedy|Fantasy|Musical|Romance",
+      "rating": 4.5
+    },
+    {
+      "movieId": 95167,
+      "title": "Brave (2012)",
+      "genres": "Action|Adventure|Animation|Children",
+      "rating": 4.5
+    },
+    {
+      "movieId": 81845,
+      "title": "King's Speech, The (2010)",
+      "genres": "Drama",
+      "rating": 4.5
+    }
+  ],
+  "recommendations": [
+    {
+      "movieId": 97921,
+      "title": "Silver Linings Playbook (2012)",
+      "genres": "Comedy|Drama",
+      "score": 0.8694986701011658
+    },
+    {
+      "movieId": 431,
+      "title": "Carlito's Way (1993)",
+      "genres": "Crime|Drama",
+      "score": 0.8342525362968445
+    },
+    {
+      "movieId": 6283,
+      "title": "Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001)",
+      "genres": "Action|Animation|Sci-Fi|Thriller",
+      "score": 0.8302686214447021
+    },
+    {
+      "movieId": 858,
+      "title": "Godfather, The (1972)",
+      "genres": "Crime|Drama",
+      "score": 0.8276069760322571
+    },
+    {
+      "movieId": 7361,
+      "title": "Eternal Sunshine of the Spotless Mind (2004)",
+      "genres": "Drama|Romance|Sci-Fi",
+      "score": 0.8230797052383423
+    },
+    {
+      "movieId": 3147,
+      "title": "Green Mile, The (1999)",
+      "genres": "Crime|Drama",
+      "score": 0.8195116519927979
+    },
+    {
+      "movieId": 88744,
+      "title": "Rise of the Planet of the Apes (2011)",
+      "genres": "Action|Drama|Sci-Fi|Thriller",
+      "score": 0.8183954358100891
+    },
+    {
+      "movieId": 3104,
+      "title": "Midnight Run (1988)",
+      "genres": "Action|Comedy|Crime|Thriller",
+      "score": 0.8172634243965149
+    },
+    {
+      "movieId": 3148,
+      "title": "Cider House Rules, The (1999)",
+      "genres": "Drama",
+      "score": 0.8167718052864075
+    },
+    {
+      "movieId": 2804,
+      "title": "Christmas Story, A (1983)",
+      "genres": "Children|Comedy",
+      "score": 0.8159275650978088
+    }
+  ],
+  "diversity_metrics": {
+    "new_genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "novelty_ratio": 0.2222222222222222,
+    "diversity": 0.6837606837606839
+  }
+}

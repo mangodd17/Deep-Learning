@@ -1,0 +1,138 @@
+{
+  "user_id": 115,
+  "history": [
+    {
+      "movieId": 541,
+      "title": "Blade Runner (1982)",
+      "genres": "Action|Sci-Fi|Thriller",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1387,
+      "title": "Jaws (1975)",
+      "genres": "Action|Horror",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1198,
+      "title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+      "genres": "Action|Adventure",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1101,
+      "title": "Top Gun (1986)",
+      "genres": "Action|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1035,
+      "title": "Sound of Music, The (1965)",
+      "genres": "Musical|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 367,
+      "title": "Mask, The (1994)",
+      "genres": "Action|Comedy|Crime|Fantasy",
+      "rating": 5.0
+    },
+    {
+      "movieId": 2006,
+      "title": "Mask of Zorro, The (1998)",
+      "genres": "Action|Comedy|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 2724,
+      "title": "Runaway Bride (1999)",
+      "genres": "Comedy|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 597,
+      "title": "Pretty Woman (1990)",
+      "genres": "Comedy|Romance",
+      "rating": 4.5
+    },
+    {
+      "movieId": 1544,
+      "title": "Lost World: Jurassic Park, The (1997)",
+      "genres": "Action|Adventure|Sci-Fi|Thriller",
+      "rating": 4.5
+    }
+  ],
+  "recommendations": [
+    {
+      "movieId": 318,
+      "title": "Shawshank Redemption, The (1994)",
+      "genres": "Crime|Drama",
+      "score": 0.8835663199424744
+    },
+    {
+      "movieId": 3396,
+      "title": "Muppet Movie, The (1979)",
+      "genres": "Adventure|Children|Comedy|Musical",
+      "score": 0.8785579204559326
+    },
+    {
+      "movieId": 1210,
+      "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "genres": "Action|Adventure|Sci-Fi",
+      "score": 0.8707738518714905
+    },
+    {
+      "movieId": 46723,
+      "title": "Babel (2006)",
+      "genres": "Drama|Thriller",
+      "score": 0.8692067265510559
+    },
+    {
+      "movieId": 3104,
+      "title": "Midnight Run (1988)",
+      "genres": "Action|Comedy|Crime|Thriller",
+      "score": 0.8660337924957275
+    },
+    {
+      "movieId": 4623,
+      "title": "Major League (1989)",
+      "genres": "Comedy",
+      "score": 0.8610533475875854
+    },
+    {
+      "movieId": 3006,
+      "title": "Insider, The (1999)",
+      "genres": "Drama|Thriller",
+      "score": 0.8560017943382263
+    },
+    {
+      "movieId": 1104,
+      "title": "Streetcar Named Desire, A (1951)",
+      "genres": "Drama",
+      "score": 0.8559238314628601
+    },
+    {
+      "movieId": 50,
+      "title": "Usual Suspects, The (1995)",
+      "genres": "Crime|Mystery|Thriller",
+      "score": 0.8545412421226501
+    },
+    {
+      "movieId": 76093,
+      "title": "How to Train Your Dragon (2010)",
+      "genres": "Adventure|Animation|Children|Fantasy|IMAX",
+      "score": 0.8542278409004211
+    }
+  ],
+  "diversity_metrics": {
+    "new_genres": [
+      "Animation",
+      "IMAX",
+      "Mystery",
+      "Drama",
+      "Children"
+    ],
+    "novelty_ratio": 0.38461538461538464,
+    "diversity": 0.7037037037037036
+  }
+}

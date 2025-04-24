@@ -1,0 +1,134 @@
+{
+  "user_id": 282,
+  "history": [
+    {
+      "movieId": 356,
+      "title": "Forrest Gump (1994)",
+      "genres": "Comedy|Drama|Romance|War",
+      "rating": 5.0
+    },
+    {
+      "movieId": 110,
+      "title": "Braveheart (1995)",
+      "genres": "Action|Drama|War",
+      "rating": 5.0
+    },
+    {
+      "movieId": 150,
+      "title": "Apollo 13 (1995)",
+      "genres": "Adventure|Drama|IMAX",
+      "rating": 5.0
+    },
+    {
+      "movieId": 318,
+      "title": "Shawshank Redemption, The (1994)",
+      "genres": "Crime|Drama",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1704,
+      "title": "Good Will Hunting (1997)",
+      "genres": "Drama|Romance",
+      "rating": 5.0
+    },
+    {
+      "movieId": 69,
+      "title": "Friday (1995)",
+      "genres": "Comedy",
+      "rating": 4.0
+    },
+    {
+      "movieId": 788,
+      "title": "Nutty Professor, The (1996)",
+      "genres": "Comedy|Fantasy|Romance|Sci-Fi",
+      "rating": 4.0
+    },
+    {
+      "movieId": 104,
+      "title": "Happy Gilmore (1996)",
+      "genres": "Comedy",
+      "rating": 4.0
+    },
+    {
+      "movieId": 1918,
+      "title": "Lethal Weapon 4 (1998)",
+      "genres": "Action|Comedy|Crime|Thriller",
+      "rating": 4.0
+    },
+    {
+      "movieId": 1210,
+      "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "genres": "Action|Adventure|Sci-Fi",
+      "rating": 4.0
+    }
+  ],
+  "recommendations": [
+    {
+      "movieId": 2571,
+      "title": "Matrix, The (1999)",
+      "genres": "Action|Sci-Fi|Thriller",
+      "score": 0.9033269286155701
+    },
+    {
+      "movieId": 3499,
+      "title": "Misery (1990)",
+      "genres": "Drama|Horror|Thriller",
+      "score": 0.8971874117851257
+    },
+    {
+      "movieId": 88744,
+      "title": "Rise of the Planet of the Apes (2011)",
+      "genres": "Action|Drama|Sci-Fi|Thriller",
+      "score": 0.8922732472419739
+    },
+    {
+      "movieId": 1197,
+      "title": "Princess Bride, The (1987)",
+      "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+      "score": 0.8916187882423401
+    },
+    {
+      "movieId": 46723,
+      "title": "Babel (2006)",
+      "genres": "Drama|Thriller",
+      "score": 0.8902522921562195
+    },
+    {
+      "movieId": 4623,
+      "title": "Major League (1989)",
+      "genres": "Comedy",
+      "score": 0.8874489068984985
+    },
+    {
+      "movieId": 318,
+      "title": "Shawshank Redemption, The (1994)",
+      "genres": "Crime|Drama",
+      "score": 0.884899914264679
+    },
+    {
+      "movieId": 72641,
+      "title": "Blind Side, The  (2009)",
+      "genres": "Drama",
+      "score": 0.8822357654571533
+    },
+    {
+      "movieId": 3703,
+      "title": "Road Warrior, The (Mad Max 2) (1981)",
+      "genres": "Action|Adventure|Sci-Fi|Thriller",
+      "score": 0.8816255927085876
+    },
+    {
+      "movieId": 30810,
+      "title": "Life Aquatic with Steve Zissou, The (2004)",
+      "genres": "Adventure|Comedy|Fantasy",
+      "score": 0.875494658946991
+    }
+  ],
+  "diversity_metrics": {
+    "new_genres": [
+      "Horror"
+    ],
+    "novelty_ratio": 0.1,
+    "diversity": 0.7071428571428571
+  }
+}

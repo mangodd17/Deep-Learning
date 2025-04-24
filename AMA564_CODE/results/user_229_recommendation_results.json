@@ -1,0 +1,135 @@
+{
+  "user_id": 229,
+  "history": [
+    {
+      "movieId": 6539,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "genres": "Action|Adventure|Comedy|Fantasy",
+      "rating": 5.0
+    },
+    {
+      "movieId": 53996,
+      "title": "Transformers (2007)",
+      "genres": "Action|Sci-Fi|Thriller|IMAX",
+      "rating": 5.0
+    },
+    {
+      "movieId": 1527,
+      "title": "Fifth Element, The (1997)",
+      "genres": "Action|Adventure|Comedy|Sci-Fi",
+      "rating": 5.0
+    },
+    {
+      "movieId": 45722,
+      "title": "Pirates of the Caribbean: Dead Man's Chest (2006)",
+      "genres": "Action|Adventure|Fantasy",
+      "rating": 5.0
+    },
+    {
+      "movieId": 41566,
+      "title": "Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",
+      "genres": "Adventure|Children|Fantasy",
+      "rating": 4.5
+    },
+    {
+      "movieId": 8644,
+      "title": "I, Robot (2004)",
+      "genres": "Action|Adventure|Sci-Fi|Thriller",
+      "rating": 4.5
+    },
+    {
+      "movieId": 33679,
+      "title": "Mr. & Mrs. Smith (2005)",
+      "genres": "Action|Adventure|Comedy|Romance",
+      "rating": 4.5
+    },
+    {
+      "movieId": 33794,
+      "title": "Batman Begins (2005)",
+      "genres": "Action|Crime|IMAX",
+      "rating": 4.5
+    },
+    {
+      "movieId": 34048,
+      "title": "War of the Worlds (2005)",
+      "genres": "Action|Adventure|Sci-Fi|Thriller",
+      "rating": 4.5
+    },
+    {
+      "movieId": 34162,
+      "title": "Wedding Crashers (2005)",
+      "genres": "Comedy|Romance",
+      "rating": 4.5
+    }
+  ],
+  "recommendations": [
+    {
+      "movieId": 84152,
+      "title": "Limitless (2011)",
+      "genres": "Sci-Fi|Thriller",
+      "score": 0.9325399994850159
+    },
+    {
+      "movieId": 912,
+      "title": "Casablanca (1942)",
+      "genres": "Drama|Romance",
+      "score": 0.9302968978881836
+    },
+    {
+      "movieId": 3703,
+      "title": "Road Warrior, The (Mad Max 2) (1981)",
+      "genres": "Action|Adventure|Sci-Fi|Thriller",
+      "score": 0.9184979796409607
+    },
+    {
+      "movieId": 88744,
+      "title": "Rise of the Planet of the Apes (2011)",
+      "genres": "Action|Drama|Sci-Fi|Thriller",
+      "score": 0.9168979525566101
+    },
+    {
+      "movieId": 2959,
+      "title": "Fight Club (1999)",
+      "genres": "Action|Crime|Drama|Thriller",
+      "score": 0.9063000082969666
+    },
+    {
+      "movieId": 46723,
+      "title": "Babel (2006)",
+      "genres": "Drama|Thriller",
+      "score": 0.8987506628036499
+    },
+    {
+      "movieId": 3104,
+      "title": "Midnight Run (1988)",
+      "genres": "Action|Comedy|Crime|Thriller",
+      "score": 0.897552490234375
+    },
+    {
+      "movieId": 5010,
+      "title": "Black Hawk Down (2001)",
+      "genres": "Action|Drama|War",
+      "score": 0.8947609663009644
+    },
+    {
+      "movieId": 122882,
+      "title": "Mad Max: Fury Road (2015)",
+      "genres": "Action|Adventure|Sci-Fi|Thriller",
+      "score": 0.8943729996681213
+    },
+    {
+      "movieId": 3147,
+      "title": "Green Mile, The (1999)",
+      "genres": "Crime|Drama",
+      "score": 0.8940638899803162
+    }
+  ],
+  "diversity_metrics": {
+    "new_genres": [
+      "War",
+      "Drama"
+    ],
+    "novelty_ratio": 0.2222222222222222,
+    "diversity": 0.6344086021505377
+  }
+}
