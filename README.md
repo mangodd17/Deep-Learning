@@ -1,4 +1,3 @@
-# Deep-Learning
 # Personalized Recommendation Algorithm Based On Deep Learning
 
 ## Overview
@@ -85,12 +84,9 @@ The recommendation quality is evaluated using:
 - Pandas, NumPy, Matplotlib, Seaborn
 - scikit-learn
 
-
 ### Running the Project
 
 1. Place the MovieLens dataset files in the `data` directory.
 
 2. Run the  `main.py` 
 ```
-
-
